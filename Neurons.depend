@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1603297576 source:c:\users\hp\dysk google\programming\ml\neurons\neurons\main.cpp
+	"Network.hpp"
+
+1603294943 c:\users\hp\dysk google\programming\ml\neurons\neurons\neuron.hpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1603219612 source:c:\users\hp\dysk google\programming\ml\neurons\neurons\doubleinputneuron.cpp
+	"DoubleInputNeuron.h"
+
+1603219705 c:\users\hp\dysk google\programming\ml\neurons\neurons\doubleinputneuron.h
+	"Neuron.hpp"
+
+1603294907 source:c:\users\hp\dysk google\programming\ml\neurons\neurons\neuron.cpp
+	"Neuron.hpp"
+
+1603297533 source:c:\users\hp\dysk google\programming\ml\neurons\neurons\network.cpp
+	"Network.hpp"
+
+1603296912 c:\users\hp\dysk google\programming\ml\neurons\neurons\network.hpp
+	"Neuron.hpp"
+
